@@ -1,0 +1,32 @@
+td {
+    text-align: center;
+    padding: 10px;
+    border: solid black 2px;
+}
+
+body {
+    text-align: center;
+    background-color: aliceblue;
+    font-family: monospace;
+}
+
+table {
+    margin: 10px auto;
+}
+
+.aside {
+    max-width: 100px;
+    width: 25%;
+}
+
+.tag {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 40px;
+}
